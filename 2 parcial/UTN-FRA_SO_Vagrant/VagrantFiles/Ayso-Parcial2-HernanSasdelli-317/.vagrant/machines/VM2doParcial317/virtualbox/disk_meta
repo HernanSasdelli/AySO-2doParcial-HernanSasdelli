@@ -1,0 +1,1 @@
+{"disk":[{"uuid":"de7530be-0273-4db3-a91a-70c4d20e6889","port":"2","device":"0","name":"LVM_storage","controller":"SCSI"},{"uuid":"7ecb91a8-26e9-4ce8-ada0-9961e42f2a29","port":"3","device":"0","name":"defender_storage2","controller":"SCSI"}],"floppy":[],"dvd":[]}
